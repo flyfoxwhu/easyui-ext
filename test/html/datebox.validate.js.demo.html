@@ -25,10 +25,10 @@
 		<div id="doc">
 			<h2>Doc</h2>
 			<p>比较从选择器选择的时间是否晚于今天：</p>
-			<pre><code class="lang-html">&lt;input id="date-first" class="easyui-datebox" validType="isAfter['@today','Today']"/&gt;</code></pre>
+			<div class="highlight highlight-html"><pre><span class="nt">&lt;input</span> <span class="na">id=</span><span class="s">"date-first"</span> <span class="na">class=</span><span class="s">"easyui-datebox"</span> <span class="na">validType=</span><span class="s">"isAfter['@today','Today']"</span><span class="nt">/&gt;</span></pre></div>
 			<p>比较从选择器选择的时间是否晚于另外一个日期：</p>
-			<pre><code class="lang-html">&lt;input id="date-second" class="easyui-datebox" validType="isAfter['#date-first','Date first']"/&gt;</code></pre>
-			<p>代码中的<code>isAfter</code>是自定义的验证规则，方括号内输入的第一个参数为选择器，第二个参数为提示消息中需要输出的日期的名称及描述。</p>
+			<div class="highlight highlight-html"><pre><span class="nt">&lt;input</span> <span class="na">id=</span><span class="s">"date-second"</span> <span class="na">class=</span><span class="s">"easyui-datebox"</span> <span class="na">validType=</span><span class="s">"isAfter['#date-first','Date first']"</span><span class="nt">/&gt;</span></pre></div>
+			<p>代码中的 <code>isAfter</code> 是自定义的验证规则，方括号内输入的第一个参数为选择器，第二个参数为提示消息中需要输出的日期的名称及描述。</p>
 		</div>
 	</div>
 	<script type="text/javascript" src="../../res/easyui/jquery.min.js"></script>
