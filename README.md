@@ -11,9 +11,4 @@ DEMO 页面：
 GitHub Wiki：[github.com/MurphyL/easyui-ext/wiki](https://github.com/MurphyL/easyui-ext/wiki "WIKI")
 
 
-团队成员：
-
-
-> [@MurphyL](http://weibo.com/murphyluo "MurphyLuo") 
-
 加入我们：95213212 (QQ 群)
