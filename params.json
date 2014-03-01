@@ -1,0 +1,1 @@
+{"name":"easyui-ext","tagline":"常用 easyui 扩展","body":"easyui-ext\r\n==========\r\n\r\njQuery.easyui 常用功能扩展。目前已经实现了部分 validator 的规则，以及给 datebox 增加了基础的时间先后校验功能。\r\n\r\n1. 日期校验组建（datebox-validator）\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
